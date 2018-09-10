@@ -1,0 +1,6 @@
+E:\Project\HappyEVTraceSystem\HETraceSystem\COMM\bin\x86\Release\COMM.dll
+E:\Project\HappyEVTraceSystem\HETraceSystem\COMM\bin\x86\Release\COMM.pdb
+E:\Project\HappyEVTraceSystem\HETraceSystem\COMM\bin\x86\Release\MySql.Data.dll
+E:\Project\HappyEVTraceSystem\HETraceSystem\COMM\obj\x86\Release\COMM.dll
+E:\Project\HappyEVTraceSystem\HETraceSystem\COMM\obj\x86\Release\COMM.pdb
+E:\Project\HappyEVTraceSystem\HETraceSystem\COMM\obj\x86\Release\COMM.csprojResolveAssemblyReference.cache
